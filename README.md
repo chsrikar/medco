@@ -1,4 +1,4 @@
-# MEDCO – CLI Based Medical Assistant
+# MEDCO – Python Based Medical Assistant
 
 **MEDCO** is a simple program built using Python. It simulates a basic medical assistant that allows users to log in and get instant treatment suggestions for common health issues based on keyword matching.
 
